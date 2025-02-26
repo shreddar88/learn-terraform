@@ -10,7 +10,7 @@ terraform {
       name = "learn-terraform"
     }
   }
-/*
+*/
   required_providers {
     aws = {
       source  = "hashicorp/aws"
